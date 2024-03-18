@@ -71,6 +71,18 @@
 - [ ] Blue-green deployment
     - Requires monitoring if you're using load balancer
 - [ ] Zero-downtime releases
+- [ ] How to run without gradle? 
+- [ ] Download kafka and experiment
+- [ ] pre commit hooks
+- [ ] Read Agile manifesto
+- [ ] Check gradle lifecycle tasks
+- [ ] Check out different artifact registry 
+- [ ] How to differentiate between steps and jobs while writing a yml file for github actions?
+- [ ] Pipeline parameter
+- [ ] different kinds of feature toggling
+- [ ] learn about branch by abstraction 
+- [ ] Decouple Deployment from Release
+- [ ] There are different types of deployment like conary and (green and blue)
 ## System Design
 - [ ] Dependency Inversion
     - Adaptor class or Anti-corruption layer
