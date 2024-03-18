@@ -1,0 +1,3 @@
+- [ ] What is the different between normal install and homebrew install 
+- [ ] Profiler 
+- [ ] Yagni
